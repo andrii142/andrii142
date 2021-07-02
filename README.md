@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-http://gph.is/2nrvEHY
+
+![](http://gph.is/2nrvEHY)
 
 <!--
 **andrii142/andrii142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
