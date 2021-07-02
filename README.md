@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](http://gph.is/2nrvEHY)
+![](https://media.giphy.com/media/3o6wrnkbC2xwHs11xC/giphy.gif)
 
 <!--
 **andrii142/andrii142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
